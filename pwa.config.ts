@@ -2,9 +2,9 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'MSBTE Scholar',
-  shortName: 'MSBTE Scholar',
-  description: 'MSBTE Scholor is a Online Study Platform for Polytechnic Students. Syllabus, Books, Model Answer, Mega Project.',
+  name: 'Digital Gondia',
+  shortName: 'Digital Gondia',
+  description: 'Digital Gondia is a Online Study Platform for Polytechnic Students. Syllabus, Books, Model Answer, Mega Project.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -39,5 +39,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://materialuiwal.blogspot.com',
+  origin: 'https://digitalgondia.blogspot.com/',
 } satisfies Config;
