@@ -1,13 +1,13 @@
 {
-  "name": "MSBTE Scholar",
+  "name": "Digital Gondia",
   "id": "/",
-  "short_name": "MSBTE Scholar",
-  "description": "MSBTE Scholor is a Online Study Platform for Polytechnic Students. Syllabus, Books, Model Answer, Mega Project.",
+  "short_name": "Digital Gondia",
+  "description": "Digital Gondia is a Online Study Platform for Polytechnic Students. Syllabus, Books, Model Answer, Mega Project.",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "natural",
-  "start_url": "https://materialuiwal.blogspot.com/?utm_source=homescreen",
-  "scope": "https://materialuiwal.blogspot.com/",
+  "start_url": "https://digitalgondia.blogspot.com/?utm_source=homescreen",
+  "scope": "https://digitalgondia.blogspot.com/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
@@ -118,7 +118,7 @@
       "name": "Shortcut 1",
       "short_name": "Shortcut 1",
       "description": "Shortcut 1 description goes here...",
-      "url": "https://materialuiwal.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
+      "url": "https://digitalgondia.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -130,7 +130,7 @@
       "name": "Shortcut 2",
       "short_name": "Shortcut 2",
       "description": "Shortcut 2 description goes here...",
-      "url": "https://materialuiwal.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
+      "url": "https://digitalgondia.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
